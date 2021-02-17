@@ -1,0 +1,17 @@
+@import "reset.css";
+@import "variable.css";
+@import "components/status-bar.css";
+@import "components/nav-bar.css";
+@import "components/screen-header.css";
+@import "components/user-component.css";
+/*components here*/
+@import "screens/login.css";
+@import "screens/friends.css";
+
+/*screens here*/
+
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  height: 1000vh;
+  color: #2e363e;
+}
