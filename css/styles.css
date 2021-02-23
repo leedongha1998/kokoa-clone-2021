@@ -1,15 +1,24 @@
 @import "reset.css";
 @import "variable.css";
+
+/*components here*/
+
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/user-component.css";
 @import "components/badge.css";
-/*components here*/
+@import "components/icon-row.css";
+@import "components/alt-screen-header.css";
+@import "components/no-mobile.css";
+
+/*screens here*/
 @import "screens/login.css";
 @import "screens/friends.css";
 @import "screens/find.css";
-/*screens here*/
+@import "screens/more.css";
+@import "screens/settings.css";
+@import "screens/chat.css";
 
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
